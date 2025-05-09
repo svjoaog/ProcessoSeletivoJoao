@@ -8,7 +8,7 @@ Este repositório contém as respostas do teste de conhecimento técnico para a 
 
 ## Como Executar
 
-1. Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/en-us/download) instalado.
+1. Necessário ter o [.NET SDK](https://dotnet.microsoft.com/en-us/download) instalado.
 2. Abra o terminal na pasta do projeto.
 3. Execute: `dotnet run`
 
