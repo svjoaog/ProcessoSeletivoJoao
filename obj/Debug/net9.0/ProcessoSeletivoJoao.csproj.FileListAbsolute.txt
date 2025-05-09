@@ -1,0 +1,14 @@
+C:\ProcessoSeletivoJoao\bin\Debug\net9.0\ProcessoSeletivoJoao.exe
+C:\ProcessoSeletivoJoao\bin\Debug\net9.0\ProcessoSeletivoJoao.deps.json
+C:\ProcessoSeletivoJoao\bin\Debug\net9.0\ProcessoSeletivoJoao.runtimeconfig.json
+C:\ProcessoSeletivoJoao\bin\Debug\net9.0\ProcessoSeletivoJoao.dll
+C:\ProcessoSeletivoJoao\bin\Debug\net9.0\ProcessoSeletivoJoao.pdb
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.AssemblyInfoInputs.cache
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.AssemblyInfo.cs
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.csproj.CoreCompileInputs.cache
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.dll
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\refint\ProcessoSeletivoJoao.dll
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.pdb
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ProcessoSeletivoJoao.genruntimeconfig.cache
+C:\ProcessoSeletivoJoao\obj\Debug\net9.0\ref\ProcessoSeletivoJoao.dll
