@@ -20,6 +20,9 @@ O código realiza uma soma acumulativa. Ao final da execução, o valor da vari�
 Estão todas integradas em um menu interativo no terminal:
 
 Verificar se um número pertence à sequência de Fibonacci.
+
 Analisar faturamento diário (baseado em dados.json).
+
 Calcular o percentual de faturamento por estado.
+
 Inverter uma string digitada pelo usuário.
